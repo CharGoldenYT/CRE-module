@@ -6,8 +6,11 @@
 	<haxelib name="flixel-addons" />
 	<haxelib name="flixel-ui" />
 
-	<!-- Misc -->
+	<!-- JSON stuff -->
 	<haxelib name="tjson" />
+
+	<!-- Modding stuff -->
 	<haxelib name="polymod"/>
 	<haxelib name="SScript" version="7.7.0"/>
+	<haxelib name="linc_luajit"/>
 </project>
