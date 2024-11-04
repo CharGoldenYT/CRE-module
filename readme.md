@@ -7,3 +7,6 @@ a rhythm game engine developed by me, Char for this game, "Char's Adventure" (Wo
 > Any assets used for it should go under `assets/cre/` for instance to add an image via the images folder put it in `assets/cre/images/` in fact, there are already included assets with this repo that is for you to reference.
 
 > This is essentially a self-contained source folder you can build by simply dropping its folder into `Your/HaxeFlixel/Project/Path/Here/source/cre`!
+
+
+Refer to [libraries.xml](libraries.xml) for what libraries are needed for this project (Please open an issue if this is innacurate.)

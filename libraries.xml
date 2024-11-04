@@ -1,0 +1,13 @@
+<!-- This file purely just for having the required libraries here.-->
+<project>
+	<!-- Flixel -->
+	<haxelib name="flixel" />
+	<haxelib name="flixel-tools" />
+	<haxelib name="flixel-addons" />
+	<haxelib name="flixel-ui" />
+
+	<!-- Misc -->
+	<haxelib name="tjson" />
+	<haxelib name="polymod"/>
+	<haxelib name="SScript" version="7.7.0"/>
+</project>
