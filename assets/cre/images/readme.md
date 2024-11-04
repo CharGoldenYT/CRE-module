@@ -7,7 +7,7 @@
 Example:
 ```
     ratings/
-    |_____<your_folder_name_here>
+    |_____<your_folder_name_here>/
     |   |______ perfect.png
     |   |______ sick.png
     |   |______ good.png
@@ -16,7 +16,7 @@ Example:
     |   |______ combo.png
 
     start_assets/
-    |_____<your_folder_name_here>
+    |_____<your_folder_name_here>/
     |   |______ get.png
     |   |______ ready.png
     |   |______ set.png
