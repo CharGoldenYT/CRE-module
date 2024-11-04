@@ -11,3 +11,4 @@ or alternatively, to use it on a local folder not in a git
 ### As a zip from the repo
 
 Extract the folder in the zip into your project's source folder, then make sure its renamed to `cre` making the path ending with `source/cre`.
+![](EXAMPLE.png)
