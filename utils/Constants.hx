@@ -25,6 +25,9 @@ class Constants
 	public static final SAVE_FILE:String = 'CRE_Save';
 
 	/**
+	 * The following is just default colors.
+	 */
+	/**
 	 * The colors for the left note
 	 */
 	public static final noteColors_Left:NoteColors = {
