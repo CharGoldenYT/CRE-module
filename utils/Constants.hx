@@ -25,6 +25,11 @@ class Constants
 	public static final SAVE_FILE:String = 'CRE_Save';
 
 	/**
+	 * The version of this engine.
+	 */
+	public static final VERSION:String = 'v0.1b-1' #if debug + ' - PROTOTYPE' #end;
+
+	/**
 	 * The following is just default colors.
 	 */
 	/**
