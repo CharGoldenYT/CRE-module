@@ -13,4 +13,7 @@
 	<haxelib name="polymod"/>
 	<haxelib name="SScript" version="7.7.0"/>
 	<haxelib name="linc_luajit"/>
+
+	<!-- Add the following lines to make a link between the assets here and your main assets folder! -->
+	<assets path="source/cre/assets" rename="assets" />
 </project>
